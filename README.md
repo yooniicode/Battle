@@ -211,9 +211,3 @@ public class BowMaster extends Player {
 ```bash
 java -jar battleFinal.jar
 ```
-
-필요하다면 이미지 경로를 `images/홈.png`처럼 실제 리포지토리 구조에 맞게 수정해줄 수도 있어.  
-`.md`로 저장해서 `README.md`로 쓰면 완벽하게 적용될 거야!
-
-원하면 GitHub 테마에 어울리는 커버 배너도 만들어줄 수 있어 :)
-```
