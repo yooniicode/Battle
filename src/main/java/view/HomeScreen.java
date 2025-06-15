@@ -15,7 +15,7 @@ public class HomeScreen extends JFrame {
         setTitle("Maple Battle Simulator");
 
         // 이미지 로드
-        ImageIcon icon = new ImageIcon("src/main/resources/img/landing.png");
+        ImageIcon icon = new ImageIcon(getClass().getResource("/img/landing.png"));
         Image image = icon.getImage();
 
         int imageWidth = icon.getIconWidth();
